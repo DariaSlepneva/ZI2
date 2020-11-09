@@ -1,0 +1,4 @@
+1. PHP - Połączenie i pobranie danych z tabeli z użyciem interfejsu MySqli w wydaniu proceduralnym
+2. PHP - Połączenie i pobranie danych z tabeli z użyciem interfejsu MySqli w wydaniu obiektowym
+3. PHP - Połączenie i pobranie danych z tabeli z użyciem interfejsu PDO
+4. Java - Połączenie i pobranie danych z tabeli z użyciem JDBC i biblioteki sterownika.
