@@ -1,9 +1,0 @@
-1) Utworzyć projekt język Java z jedną klasą zawierającą startową metodę main oraz dołączyć do projektu bibliotekę sterowanika MySQL lub MariaDB (zalecane jest skorzystanie z edytora Intellij IDAE i utworzenie za jego pomocą projektu java zarządzanego przez Maven)
-
-2) Zainicjalizować połączenie do swojej bazy danych. Dodać obsługę wyjątku SQLException obsługującego błędy połączenia z bazą.
-
-3) Utworzyć obiekt zapytania Statement i za jego pomocą wykonać polecenie typu SELECT pobierające wszystkie dane z tabeli. Wyświetlić te dane na standardowym wyjściu aplikacji.
-
-4) Korzystając z obiektu Statement wykonać polecenie typu INSERT dopisujące pojedynczy rekord do tabeli.
-
-5) Utworzyć tablicę typu String[] i wpisać do niej min. 10 wartości tekstowych. Stworzyć zapytanie parametryzowane typu INSERT. W oparciu o tablicę i zapytanie sparametryzowane zrealizować pętlę dopisującą elementy z tablicy jako wartość kolumny tekstowe, dla kolumny liczbowej użyć liczby losowe.
